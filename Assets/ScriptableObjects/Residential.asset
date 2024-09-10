@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1b5b46f4d4c9d048bb2e8db49af9b76, type: 3}
+  m_Name: Residential
+  m_EditorClassIdentifier: 
+  buildingName: Residential
+  sprite: {fileID: 21300000, guid: cf7070fe3ab75a34689900e43605ec76, type: 3}
+  prefab: {fileID: 3259435718911540210, guid: 66e6dd747b265c644964442e244468a7, type: 3}

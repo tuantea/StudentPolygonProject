@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1bb9165154af714d9222fcabb5effcb, type: 3}
+  m_Name: BuildingTypeListSO
+  m_EditorClassIdentifier: 
+  buildingTypeSOList:
+  - {fileID: 11400000, guid: b53e32f7472c41844903d25f07d57a95, type: 2}
+  - {fileID: 11400000, guid: 131317132b039a2469810e10a1cea985, type: 2}
+  - {fileID: 11400000, guid: 8b3b58c5f519dcb4d82a73b7b2dc496c, type: 2}
+  - {fileID: 11400000, guid: 48f28e6191049d04aa559d42f62961e0, type: 2}
+  - {fileID: 11400000, guid: 549799af74ffe9547a4f79c748299a15, type: 2}
+  road: {fileID: 11400000, guid: 48f28e6191049d04aa559d42f62961e0, type: 2}
+  roadCrossing: {fileID: 11400000, guid: 549799af74ffe9547a4f79c748299a15, type: 2}
+  residential: {fileID: 11400000, guid: 8b3b58c5f519dcb4d82a73b7b2dc496c, type: 2}
+  office: {fileID: 11400000, guid: b53e32f7472c41844903d25f07d57a95, type: 2}
+  park: {fileID: 11400000, guid: 131317132b039a2469810e10a1cea985, type: 2}
